@@ -1,0 +1,16 @@
+img{
+    max-height: 1000px;
+    
+}
+
+.hero{
+    max-height: 500px;
+}
+
+.hero-content{
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: black;
+}
