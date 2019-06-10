@@ -16,7 +16,7 @@ const Projects = () => {
                         <p>
                         Responsive design site I made for a company that manufactures personal protective equipment (PPE) for industries.
                         </p>
-                        <a href="www.protexsul.com.br" target="_blank">www.protexsul.com.br</a>
+                        <a href="https://www.protexsul.com.br" target="_blank">www.protexsul.com.br</a>
                     </div>
                     <div className="col s4 l4">
                         <img src={toptracks} alt="" className="responsive-img materialboxed"/>
