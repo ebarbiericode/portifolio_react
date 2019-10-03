@@ -20,23 +20,23 @@ self.__precacheManifest = [
     "url": "/static/media/fotoperfilrec.c291d92e.jpg"
   },
   {
-    "revision": "fdfcfda2d9b1bf31db52",
-    "url": "/static/js/runtime~main.fdfcfda2.js"
+    "revision": "42ac5946195a7306e2a5",
+    "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "08862ecde4741c7549bf",
-    "url": "/static/js/main.08862ecd.chunk.js"
+    "revision": "d3b453182091d1214a74",
+    "url": "/static/js/main.d3b45318.chunk.js"
   },
   {
-    "revision": "7c18bd4eb1f742515055",
-    "url": "/static/js/2.7c18bd4e.chunk.js"
+    "revision": "eec478324f63565f2eaf",
+    "url": "/static/js/2.eec47832.chunk.js"
   },
   {
-    "revision": "08862ecde4741c7549bf",
-    "url": "/static/css/main.b2acdfa2.chunk.css"
+    "revision": "d3b453182091d1214a74",
+    "url": "/static/css/main.b6f7f5b6.chunk.css"
   },
   {
-    "revision": "79ee3bccadbb5ad45c937c87f096b94d",
+    "revision": "26c34e6953ff1ac7dc137e8b0c6d9945",
     "url": "/index.html"
   }
 ];

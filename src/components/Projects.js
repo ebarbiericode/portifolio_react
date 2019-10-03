@@ -1,4 +1,5 @@
 import React from 'react'
+import {Link} from 'react-router-dom'
 import './styles/projects.css'
 import protexsul from '../assets/protexsul.png'
 import toptracks from '../assets/toptracks.png'
@@ -16,7 +17,7 @@ const Projects = () => {
                         <p>
                         Responsive design site I made for a company that manufactures personal protective equipment (PPE) for industries.
                         </p>
-                        <a href="https://www.protexsul.com.br" target="_blank">www.protexsul.com.br</a>
+                        <a rel="noopener noreferrer" href="https://www.protexsul.com.br" target="_blank">www.protexsul.com.br</a>
                     </div>
                     <div className="col s4 l4">
                         <img src={toptracks} alt="" className="responsive-img materialboxed"/>
